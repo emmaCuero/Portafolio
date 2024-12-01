@@ -1,0 +1,54 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 26px;
+    color: rgb(255, 255, 255);
+}
+
+.fondo-page1{
+    padding: 30px;
+    background-image: url(../img/fondo1-1.png);
+    height: auto;
+}
+
+.color-primario{
+    background-color: #39f8ff !important;
+    color: white !important;
+}
+.espacio-superior{
+    margin-top: 2%;
+}
+.font-amarillo{
+    color: #FFC139  !important;
+}
+.font-blanco{
+    color: white  !important;
+}
+.color-link, .color-link:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.card {
+    background-color: rgb(68, 68, 68);
+    color: rgb(222, 222, 222);
+}
+
+.align-items-end {
+    margin: 10%;
+}
+
+.p-1 {
+    color: rgb(173, 171, 171);
+    height: 150px;
+}
+
+h4 {
+    padding-top: 40px;
+}
+.contacto {
+    background-color: #4a4a4b;
+}
+
+.modal {
+    color: black;
+}
